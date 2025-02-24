@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "CalendarController",
+    "Method": "GetVisits",
+    "RelativePath": "api/Calendar/visits",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalendarController",
+    "Method": "AddVisit",
+    "RelativePath": "api/Calendar/visits",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "visit",
+        "Type": "CalendarAPI.Models.Visit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalendarController",
+    "Method": "DeleteVisit",
+    "RelativePath": "api/Calendar/visits/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\database\\seed-data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\database\\seed-data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\calendarapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\calendarapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\services\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\services\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\services\\holidayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\services\\holidayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarapi\\internationalcalendarapp\\calendarapi\\database\\seed-data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{66C4ED8F-1B84-42E4-9480-8E45F1EBD706}|CalendarAPI\\CalendarAPI.csproj|solutionrelative:calendarapi\\database\\seed-data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "seed-data.sql ",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Database\\seed-data.sql",
+              "RelativeDocumentMoniker": "CalendarAPI\\Database\\seed-data.sql",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Database\\seed-data.sql",
+              "RelativeToolTip": "CalendarAPI\\Database\\seed-data.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-24T06:46:55.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "schema.sql ",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Database\\schema.sql",
+              "RelativeDocumentMoniker": "CalendarAPI\\Database\\schema.sql",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Database\\schema.sql",
+              "RelativeToolTip": "CalendarAPI\\Database\\schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-24T06:43:51.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalendarAPI",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\CalendarAPI.csproj",
+              "RelativeDocumentMoniker": "CalendarAPI\\CalendarAPI.csproj",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\CalendarAPI.csproj",
+              "RelativeToolTip": "CalendarAPI\\CalendarAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T06:42:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CalendarAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Program.cs",
+              "RelativeToolTip": "CalendarAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:05:10.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisitService.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Services\\VisitService.cs",
+              "RelativeDocumentMoniker": "CalendarAPI\\Services\\VisitService.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Services\\VisitService.cs",
+              "RelativeToolTip": "CalendarAPI\\Services\\VisitService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:04:36.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HolidayService.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Services\\HolidayService.cs",
+              "RelativeDocumentMoniker": "CalendarAPI\\Services\\HolidayService.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Services\\HolidayService.cs",
+              "RelativeToolTip": "CalendarAPI\\Services\\HolidayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:04:05.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "CalendarAPI\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Services\\EventService.cs",
+              "RelativeToolTip": "CalendarAPI\\Services\\EventService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:03:30.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CalendarAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CalendarAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:03:04.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalendarController.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Controllers\\CalendarController.cs",
+              "RelativeDocumentMoniker": "CalendarAPI\\Controllers\\CalendarController.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarAPI\\InternationalCalendarApp\\CalendarAPI\\Controllers\\CalendarController.cs",
+              "RelativeToolTip": "CalendarAPI\\Controllers\\CalendarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:02:57.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

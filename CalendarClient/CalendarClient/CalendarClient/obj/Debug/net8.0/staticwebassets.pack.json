@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\obj\\Debug\\net8.0\\compressed\\q2sl2sr07u.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CalendarClient.styles.css",
+      "PackagePath": "staticwebassets\\CalendarClient.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CalendarClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CalendarClient.props",
+      "PackagePath": "build\\CalendarClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CalendarClient.props",
+      "PackagePath": "buildMultiTargeting\\CalendarClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CalendarClient.props",
+      "PackagePath": "buildTransitive\\CalendarClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

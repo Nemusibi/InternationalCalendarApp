@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\services\\calendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\services\\calendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\components\\pages\\calendar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\components\\pages\\calendar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|c:\\users\\lufuno\\onedrive\\documents\\calendarclient\\calendarclient\\calendarclient\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFC10350-BA39-41C6-9BB7-7E9B4BE8DC87}|CalendarClient\\CalendarClient.csproj|solutionrelative:calendarclient\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\_Imports.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\_Imports.razor",
+              "RelativeToolTip": "CalendarClient\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T06:33:48.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedirectToLogin.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Shared\\RedirectToLogin.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\Shared\\RedirectToLogin.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Shared\\RedirectToLogin.razor",
+              "RelativeToolTip": "CalendarClient\\Shared\\RedirectToLogin.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T06:33:46.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "CalendarClient\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T06:33:44.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\_Imports.razor",
+              "RelativeToolTip": "CalendarClient\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:33:17.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\App.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\App.razor",
+              "RelativeToolTip": "CalendarClient\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:33:25.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\Routes.razor",
+              "RelativeToolTip": "CalendarClient\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:33:33.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\App.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\App.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\App.razor",
+              "RelativeToolTip": "CalendarClient\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:38:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "CalendarClient\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T22:02:29.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "CalendarClient\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Models\\Event.cs",
+              "RelativeToolTip": "CalendarClient\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:01:04.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Holiday.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Models\\Holiday.cs",
+              "RelativeDocumentMoniker": "CalendarClient\\Models\\Holiday.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Models\\Holiday.cs",
+              "RelativeToolTip": "CalendarClient\\Models\\Holiday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:01:02.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "CalendarClient\\Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Models\\Visit.cs",
+              "RelativeToolTip": "CalendarClient\\Models\\Visit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:59:47.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalendarService.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Services\\CalendarService.cs",
+              "RelativeDocumentMoniker": "CalendarClient\\Services\\CalendarService.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Services\\CalendarService.cs",
+              "RelativeToolTip": "CalendarClient\\Services\\CalendarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:01:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calendar.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\Pages\\Calendar.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\Components\\Pages\\Calendar.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\Pages\\Calendar.razor",
+              "RelativeToolTip": "CalendarClient\\Components\\Pages\\Calendar.razor",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:32:52.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CalendarClient\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "CalendarClient\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T06:33:13.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Program.cs",
+              "RelativeDocumentMoniker": "CalendarClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\Program.cs",
+              "RelativeToolTip": "CalendarClient\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:05:53.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CalendarClient\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lufuno\\OneDrive\\Documents\\CalendarClient\\CalendarClient\\CalendarClient\\appsettings.Development.json",
+              "RelativeToolTip": "CalendarClient\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T22:01:58.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
